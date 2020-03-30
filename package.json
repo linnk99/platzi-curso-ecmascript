@@ -1,0 +1,19 @@
+{
+  "name": "curso-ecmascript6",
+  "version": "1.0.0",
+  "description": "entendiendo ecmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linnk99/platzi-curso-ecmascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linnk99/platzi-curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/linnk99/platzi-curso-ecmascript#readme"
+}
